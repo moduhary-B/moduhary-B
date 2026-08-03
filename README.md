@@ -8,6 +8,7 @@
 
 - [Портфолио](https://github.com/moduhary-B/portfolio) — все проекты, включая те, для которых исходники ещё обезличиваются.
 - [API автомобильных аукционов](https://github.com/moduhary-B/portfolio/blob/main/projects/auction-api.md) — сбор и нормализация данных с азиатских аукционов, кеширование, прокси, авторизация и расчёт полной стоимости автомобиля. Сейчас репозиторий проходит очистку перед публикацией.
+- [Reviews API](https://github.com/moduhary-B/rew-api) — FastAPI/PostgreSQL-сервис для сбора отзывов из 2ГИС и Яндекс Карт с разделением данных между клиентами.
 - [Octagon Bot](https://github.com/moduhary-B/octagon-bot) — архив корпоративных Telegram-переписок с версиями сообщений, медиа и экспортом.
 - [Voxy](https://github.com/moduhary-B/voxy) — Windows-клиент на React, Tauri и Rust для управления прокси и маршрутизации приложений.
 - [Win FFmpeg](https://github.com/moduhary-B/win-ffmpeg) — desktop-инструмент на C#/.NET для конвертации файлов из контекстного меню Windows.
