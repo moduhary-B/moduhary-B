@@ -9,6 +9,8 @@
 - [Портфолио](https://github.com/moduhary-B/portfolio) — все проекты, включая те, для которых исходники ещё обезличиваются.
 - [API автомобильных аукционов](https://github.com/moduhary-B/car-auction-api) — сбор и нормализация данных с азиатских аукционов, кеширование, прокси, авторизация и расчёт полной стоимости автомобиля.
 - [Reviews API](https://github.com/moduhary-B/rew-api) — FastAPI/PostgreSQL-сервис для сбора отзывов из 2ГИС и Яндекс Карт с разделением данных между клиентами.
+- [Warden](https://github.com/moduhary-B/warden-proxy) — Go reverse proxy, который восстанавливает streaming tool calls и проверяет их до выполнения.
+- [Universal Downloader](https://github.com/moduhary-B/universal-downloader) — FastAPI-очередь загрузок с ограничениями размера, времени, нагрузки и диска.
 - [Octagon Bot](https://github.com/moduhary-B/octagon-bot) — архив корпоративных Telegram-переписок с версиями сообщений, медиа и экспортом.
 - [Voxy](https://github.com/moduhary-B/voxy) — Windows-клиент на React, Tauri и Rust для управления прокси и маршрутизации приложений.
 - [Win FFmpeg](https://github.com/moduhary-B/win-ffmpeg) — desktop-инструмент на C#/.NET для конвертации файлов из контекстного меню Windows.
